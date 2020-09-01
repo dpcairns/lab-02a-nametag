@@ -21,8 +21,13 @@ main {
 }
 
 .middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background: white;
     height: 115px;
+    font-family: cursive;
+    font-size: 3rem;
 }
 
 .bottom {
