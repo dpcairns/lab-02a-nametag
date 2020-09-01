@@ -1,0 +1,36 @@
+body {
+    background: #FFDA22;
+    font-family: Roboto;
+}
+
+main {
+    background: #004f2d;
+    border-radius: 5px;
+    width: 375px;
+    text-align: center;
+}
+
+.top {
+    height: 120px;
+    border-radius: 5px;
+    color: #D87CAC;
+}
+
+.middle {
+    background: white;
+    height: 115px;
+}
+
+.bottom {
+    height: 20px;
+    border-radius: 5px;
+}
+
+.hello {
+    font-size: 4.5rem;
+    line-height: 1;
+}
+
+.my-name-is {
+    font-size: 2rem;
+}
